@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "fast"
+version = "0.1.0"
+description = ""
+authors = ["Ivan Patin <payk1230@bk.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.88.0"
+sqlalchemy = "^1.4.45"
+uvicorn = "^0.20.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
