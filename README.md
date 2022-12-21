@@ -1,4 +1,4 @@
-## Part 8 Local Setup
+## Первый проект на фаст апи
 
 1. `pip install poetry`
 2. `poetry install`
